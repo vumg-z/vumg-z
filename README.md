@@ -5,6 +5,8 @@ Interested in AI, robotics and automation.
 
 Have a look at cucharachas, it's a game that you will probably like.
 
+vumg-z.github.io/cucarachas/
+
 
 <p align="center">
   <img src="https://github.com/UrielMendozaG/UrielMendozaG/blob/main/kakashi.GIF" alt="animated" />
