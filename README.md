@@ -1,3 +1,8 @@
+Hi, my name is Victor. 
+
+I am currently studying and making web apps in my spare time. 
+Interested in AI, robotics and automation.
+
 
 <p align="center">
   <img src="https://github.com/UrielMendozaG/UrielMendozaG/blob/main/kakashi.GIF" alt="animated" />
