@@ -1,7 +1,9 @@
 Hi, my name is Victor. 
 
 I am currently studying and making web apps in my spare time. 
-Interested in AI, robotics and automation.
+Interested in AI, robotics and automation. 
+
+Have a look at cucharachas, it's a game that you will probably like.
 
 
 <p align="center">
