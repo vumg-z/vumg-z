@@ -1,4 +1,4 @@
-at least im gonna be debt free before ASI arrives... 
+debt free before ASI
 
 <!---
 UrielMendozaG/UrielMendozaG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
